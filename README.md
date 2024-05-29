@@ -1,4 +1,4 @@
-##  [Athar Raza Faridi](https://atharfaridi.com) 👋
+##  Athar Raza Faridi 👋
 
 
 ## 🚀 About Me 
@@ -6,7 +6,6 @@ I am a dedicated Software Application Architect and Full Stack Developer with a 
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 
-You can find more details about me at my [portfolio link](https://atharfaridi.com) !
 
 ## Current Projects
 🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a>,<a href="https://solopreneursguide.com" target="_blank">Solopreneurs Guide</a>  and many other NextJS and Blazor Projects..
