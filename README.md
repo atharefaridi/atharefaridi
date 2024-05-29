@@ -25,19 +25,20 @@ Hello! I’m Athar Faridi, a dedicated Software Application Architect and Full S
 - Willing to Travel for Great projects
 
 
-# Global experience :
+# Global experience 
  UK | Portugal | Netherland | Singapore | Malaysia | India | USA
 
-# Hobby :
+# Hobby 
 Exploring Abandoned Places | Cycling | Photography and Screenplay
 
-#Beleives in :
+# Beleives in 
 We before me!
 
-# The One-liner :
+# The One-liner 
 The secret of walking on water is, knowing where the stones are …!
    
-- ⚡ Portfolio : <a href="https://atharfaridi.com" target="_blank">Athar Faridi </a>
+- 📫Feel free to reach me at atharfaridi@outlook.com | atharrazafaridi@gmail.com
+- ⚡Complete Portfolio : <a href="https://atharfaridi.com" target="_blank">Athar Faridi </a>
 
 
 <!--
