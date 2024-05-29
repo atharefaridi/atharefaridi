@@ -8,7 +8,7 @@ With a wealth of experience across multiple technology stacks, I specialize in c
 
 
 ## 💻 Current projects
-🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a>,<a href="https://solopreneursguide.com" target="_blank">Solopreneurs Guide</a>  and many other NextJS and Blazor Projects..
+🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a> and many other NextJS and Blazor Projects..
 
 ## 🛠 Expertise
 
