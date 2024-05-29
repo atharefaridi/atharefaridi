@@ -3,12 +3,11 @@ Hello! I’m Athar Faridi, a dedicated Software Application Architect and Full S
 
 - 🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a> , <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a> ,<a href="https://solopreneursguide.com" target="_blank">Solopreneurs Guide</a>  and many other NextJS and Blazor Projects..
   
-> 🤝 Always excited to connect with like-minded professionals and explore new opportunities. Whether you need an Application Architect or Full-stack development for your next big project, a digital marketing strategist to boost your online presence, or a consultant to streamline your startup’s onboarding process, I am here to help.
+> 🤝 I am always excited to connect with like-minded professionals and explore new opportunities. Whether you need an Application Architect or Full-stack development for your next big project, a digital marketing strategist to boost your online presence, or a consultant to streamline your startup’s onboarding process, I am here to help.
+> 📫 How to reach me: atharfaridi@outlook.com | atharrazafaridi@gmail.com
   
 - 💬 Ask me about : Solution Design , Application Architecture , Digital On-Boarding , Marketing Solutions etc...
-  
-- 📫 How to reach me: atharfaridi@outlook.com | atharrazafaridi@gmail.com
-  
+    
 - ⚡ Portfolio : <a href="https://atharfaridi.com" target="_blank">Athar Faridi </a>
 
 
