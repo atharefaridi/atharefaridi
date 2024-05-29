@@ -7,7 +7,7 @@ I am a dedicated Software Application Architect and Full Stack Developer with a 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 
 
-## Current Projects
+## 💻 Current projects
 🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a>,<a href="https://solopreneursguide.com" target="_blank">Solopreneurs Guide</a>  and many other NextJS and Blazor Projects..
 
 ## 🛠 Expertise
@@ -106,7 +106,7 @@ I have had the privilege of working in various locations globally, including:
 - India
 - USA
 
-## Hobbies
+## 📅 Hobbies
 I enjoy exploring abandoned places, cycling, photography, and screenplay writing.
 
 ## Beliefs
