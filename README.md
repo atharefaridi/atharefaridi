@@ -6,7 +6,7 @@ I am a dedicated Software Application Architect and Full Stack Developer with a 
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 
-> 🔍 You can learn more about me at my tech portal --> [AtharFaridi](https://atharfaridi.com)
+> :eyeglasses: You can learn more about me at my tech portal --> [AtharFaridi](https://atharfaridi.com)
 
 ## 💻 Current projects
 🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a> and many other NextJS and Blazor Projects..
@@ -108,16 +108,16 @@ I have had the privilege of working in various locations globally, including:
 - USA
 
 ## 📅 Hobbies
-I enjoy exploring abandoned places, cycling, photography, and screenplay writing.
+I enjoy exploring abandoned places :tent: , cycling :bicyclist: , photography :camera: , and video editing :video_camera: .
 
-## Beliefs
+## :dart: Beliefs
 I believe in "We before me!"
 
-## The One-liner
+## :bulb: The One-liner
 "The secret of walking on water is, knowing where the stones are …!"
 
-## Connect with Me
-🤝 I am always excited to connect with like-minded professionals and explore new opportunities. Whether you need an Application Architect or Full-stack development for your next big project, a digital marketing strategist to boost your online presence, or a consultant to streamline your startup’s onboarding process, I am here to help.
+## 🤝 Connect with Me
+I am always excited to connect with like-minded professionals and explore new opportunities. Whether you need an Application Architect or Full-stack development for your next big project, a digital marketing strategist to boost your online presence, or a consultant to streamline your startup’s onboarding process, I am here to help.
 
 📫 Feel free to reach me at:
 - **Email:** atharfaridi@outlook.com | atharrazafaridi@gmail.com
