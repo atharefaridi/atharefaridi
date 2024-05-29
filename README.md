@@ -9,13 +9,6 @@ With a wealth of experience across multiple technology stacks, I specialize in c
 ## Current Projects
 🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a>,<a href="https://solopreneursguide.com" target="_blank">Solopreneurs Guide</a>  and many other NextJS and Blazor Projects..
 
-## Connect with Me
-🤝 I am always excited to connect with like-minded professionals and explore new opportunities. Whether you need an Application Architect or Full-stack development for your next big project, a digital marketing strategist to boost your online presence, or a consultant to streamline your startup’s onboarding process, I am here to help.
-
-📫 Feel free to reach me at:
-- **Email:** atharfaridi@outlook.com | atharrazafaridi@gmail.com
-- **Portfolio:** [Athar Faridi](https://atharfaridi.com)
-
 ## 🛠 Expertise
 
 ### Architecture and Solution Design
@@ -79,6 +72,10 @@ I believe in "We before me!"
 ## The One-liner
 "The secret of walking on water is, knowing where the stones are …!"
 
+## Connect with Me
+🤝 I am always excited to connect with like-minded professionals and explore new opportunities. Whether you need an Application Architect or Full-stack development for your next big project, a digital marketing strategist to boost your online presence, or a consultant to streamline your startup’s onboarding process, I am here to help.
+
 📫 Feel free to reach me at:
 - **Email:** atharfaridi@outlook.com | atharrazafaridi@gmail.com
-- **Complete Portfolio:** [Athar Faridi](https://atharfaridi.com)
+- **Portfolio:** [Athar Faridi](https://atharfaridi.com)
+
