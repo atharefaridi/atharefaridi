@@ -78,5 +78,5 @@ I believe in "We before me!"
 
 📫 Feel free to reach me at:
 - **Email:** atharfaridi@outlook.com | atharrazafaridi@gmail.com
-- **Portfolio:** [Athar Raza Faridi](https://atharfaridi.com)
+- **Portfolio:** You can learn more about me at my tech portal --> [AtharFaridi](https://atharfaridi.com)
 
