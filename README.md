@@ -6,7 +6,7 @@ I’m Athar Faridi, a dedicated Software Application Architect and Full Stack De
 - 💬 Ask me about : Solution Design , Application Architecture , Digital On-Boarding , Marketing Solutions etc...
 - 📫 How to reach me: atharfaridi@outlook.com | atharrazafaridi@gmail.com
   
-- ⚡ Portfolio :<a href="https://jatharfaridi.com " target="_blank">atharfaridi.com</a>
+- ⚡ Portfolio : <a href="https://atharfaridi.com" target="_blank">Athar Faridi </a>
 <!--
 **atharefaridi/atharefaridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
