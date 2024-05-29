@@ -1,5 +1,7 @@
 ## Athar Raza Faridi 👋
 
+
+## 🚀 About Me
 I am a dedicated Software Application Architect and Full Stack Developer with a passion for innovation and a love for the freedom of digital nomadism. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
@@ -14,22 +16,52 @@ With a wealth of experience across multiple technology stacks, I specialize in c
 - **Email:** atharfaridi@outlook.com | atharrazafaridi@gmail.com
 - **Portfolio:** [Athar Faridi](https://atharfaridi.com)
 
-## Specialties
-💬 My specialties include:
-- **Architecture and Solution Design**
-- **Fullstack Development**
-- **Team Lead, Pre-sales, and Vendor Management**
-- **Technologies:** Blazor, React, Angular, NodeJS, NestJS, Express, Asp.Net Core, Microsoft Azure, Umbraco, SharePoint, Sitecore, and more
-- **Expertise:** Designing applications with Serverless Architecture, live streaming applications, Power Platform, Azure Databricks, Azure Datafactory, Event Hubs, Azure CosmosDB Change feed, Azure Key Vault, App Insight, Azure Functions, Logic Apps, and more
-- **Principles and Patterns:** SOLID Principles, Design Patterns, Test Driven Design, Domain Driven Design
-- **Methodologies:** Agile Methodologies, DEV OPS (CI/CD)
-- **Migration:** Framework Migration Asp.Net Webform to Asp.Net Core, SharePoint Migration
-- **Integration:** Enterprise Integration, Disaster Recovery Plan
-- **Languages:** C#, Python, Typescript, Modern Javascript, VB.NET, ASP.NET, ADO.NET, LINQ
-- **Development:** Custom APIs, Workflows, WCM, Multi-Lingual Site, InfoPath, Web Parts Development, Excel Services
+## 🛠 Expertise
 
-## Global Experience
-I have worked in various locations globally, including:
+### Architecture and Solution Design
+I specialize in creating robust and scalable architectures that drive business success. From initial concept to final deployment, I ensure every solution is designed with precision and innovation.
+
+### Fullstack Development
+Proficient in both front-end and back-end development, I deliver seamless and dynamic web and mobile applications. My expertise spans across multiple technology stacks, ensuring the right tools are used for each unique project.
+
+### Team Lead, Pre-sales, and Vendor Management
+With strong leadership and management skills, I effectively guide teams, manage pre-sales activities, and handle vendor relationships to deliver successful projects.
+
+## 🔧 Technologies
+
+- **Frontend:** Blazor, React, Angular,DotNet Core, NextJS
+- **Backend:** NodeJS, NestJS, Express, Asp.Net Core
+- **Cloud:** Microsoft Azure, Azure Databricks, Azure Datafactory, Event Hubs, Azure CosmosDB Change feed, Azure Key Vault, App Insight, Azure Functions, Logic Apps
+- **CMS:** Umbraco, SharePoint, Sitecore, Sanity, Wordpress, Headless
+- **Development Languages:** C#, Python, Typescript, Modern Javascript, VB.NET, ASP.NET, ADO.NET, LINQ
+- **Databases:** MS SQL, MongoDB, DocumentDB, etc.
+
+## 🌟 Specialties
+
+- **Serverless Architecture:** Designing scalable and efficient serverless applications.
+- **Live Streaming Applications:** Crafting high-performance live streaming solutions.
+- **Power Platform:** Utilizing Power Platform to build powerful business applications.
+- **SOLID Principles & Design Patterns:** Implementing industry best practices in software design.
+- **Test Driven Design & Domain Driven Design:** Ensuring high-quality, maintainable code.
+- **Agile Methodologies & DEV OPS (CI/CD):** Adopting agile practices and continuous integration/delivery for efficient development cycles.
+- **Framework Migration:** Migrating frameworks such as Asp.Net Webform to Asp.Net Core.
+- **SharePoint Migration:** Expert in SharePoint migration projects.
+- **Enterprise Integration:** Seamlessly integrating enterprise applications.
+- **Disaster Recovery Plan:** Developing and implementing robust disaster recovery plans.
+
+## 🔍 Development Areas
+
+- Custom APIs
+- Workflows
+- Web Content Management (WCM)
+- Multi-Lingual Sites
+- InfoPath
+- Web Parts Development
+- Excel Services
+
+## 🌍 Global Experience
+
+I have had the privilege of working in various locations globally, including:
 - UK
 - Portugal
 - Netherlands
