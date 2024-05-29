@@ -1,5 +1,4 @@
 ## Athar Raza Faridi 👋
-# Hello! I’m Athar Faridi
 
 I am a dedicated Software Application Architect and Full Stack Developer with a passion for innovation and a love for the freedom of digital nomadism. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
 
