@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me 
-I am a dedicated Software Application Architect and Full Stack Developer with a passion for innovation and a love for the freedom of digital nomadism. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
+I am a seasoned Software Professional with a passion for crafting robust, scalable, and user-friendly software solutions. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 
@@ -18,14 +18,14 @@ I specialize in creating robust and scalable architectures that drive business s
 <div align="left">
 	<table>
 		<tr>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
 			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code></td>
 			<td><code><img width="30" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" alt="Auth0" title="Auth0"/></code></td>
 			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
 			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code></td>		
 		</tr>
 	</table>
 </div>
@@ -41,7 +41,7 @@ With strong leadership and management skills, I effectively guide teams, manage 
 - **Frontend:** Blazor, React, Angular,DotNet Core, NextJS
 - **Backend:** NodeJS, NestJS, Express, Asp.Net Core
 - **Cloud:** Microsoft Azure, Azure Databricks, Azure Datafactory, Event Hubs, Azure CosmosDB Change feed, Azure Key Vault, App Insight, Azure Functions, Logic Apps
-- **CMS:** Umbraco, SharePoint, Sitecore, Sanity, Wordpress, Headless
+- **CMS:** SharePoint, Sitecore, Umbraco, Sanity, Wordpress, Headless (multiple)
 - **Development Languages:** C#, Python, Typescript, Modern Javascript, VB.NET, ASP.NET, ADO.NET, LINQ
 - **Databases:** MS SQL, MongoDB, DocumentDB, etc.
  
@@ -111,7 +111,7 @@ I have had the privilege of working in various locations globally, including:
 I enjoy exploring abandoned places :tent: , cycling :bicyclist: , photography :camera: , and video editing :video_camera: .
 
 ## :dart: Beliefs
-I believe in "We before me!"
+"We before me!"
 
 ## :bulb: The One-liner
 "The secret of walking on water is, knowing where the stones are …!"
