@@ -59,7 +59,7 @@ With strong leadership and management skills, I effectively guide teams, manage 
 - **Enterprise Integration:** Seamlessly integrating enterprise applications.
 - **Disaster Recovery Plan:** Developing and implementing robust disaster recovery plans.
 
-## 🔍 Development Areas 
+## 🔍 Development Areas (but not limited to ...)
 
   <div align="center">
 	<table>
