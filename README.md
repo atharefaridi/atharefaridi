@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me 
-I am a seasoned Software Professional with a passion for crafting robust, scalable, and user-friendly software solutions with a passion for innovation and a love for the freedom of digital nomadism. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
+I am a seasoned Software Professional with a passion for crafting robust, scalable, and user-friendly software solutions with a love for the freedom of digital nomadism. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 
