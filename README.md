@@ -2,14 +2,14 @@
 
 
 ## 🚀 About Me 
-I am a seasoned Software Professional with a passion for crafting robust, scalable, and user-friendly software solutions. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
+I am a seasoned Software Professional with a passion for crafting robust, scalable, and user-friendly software solutions with a passion for innovation and a love for the freedom of digital nomadism. My expertise spans both on-premise and cloud applications, enabling me to provide versatile and comprehensive solutions tailored to meet diverse business needs.
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 
 > :eyeglasses: You can learn more about me at my tech portal --> [AtharFaridi](https://atharfaridi.com)
 
 ## 💻 Current projects
-🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a> , <a href="https://dasalon.asia" target="_blank">daSalon Asia</a> and many other NextJS and Blazor Projects..
+🔭 I’m currently working on multiple startup projects with friends and companies like <a href="https://trekohike.tech" target="_blank">Trekohike Technologies</a>, <a href="https://jobs.dasalonindia.com" target="_blank">daSalon Jobs</a>, <a href="https://dasalon.asia" target="_blank">daSalon Asia</a> and many other NextJS and Blazor Projects..
 
 ## 🛠 Expertise
 
