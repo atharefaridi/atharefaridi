@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me 
-I am a Freelance Software Professional with a passion for crafting robust, scalable, and user-friendly software solutions with a love for the freedom of digital nomadism. 
+I am a software professional with a passion for crafting robust, scalable, and user-friendly software solutions and a love for the freedom of digital nomadism. 
 
 With a wealth of experience across multiple technology stacks, I specialize in crafting innovative solutions that drive business success. My journey has taken me around the world, allowing me to collaborate with diverse teams and clients while delivering top-notch digital products and services.
 > :eyeglasses: You can learn more about me at my tech portal --> [AtharFaridi](https://atharfaridi.com)
